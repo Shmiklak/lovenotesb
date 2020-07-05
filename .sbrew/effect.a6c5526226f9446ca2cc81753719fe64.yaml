@@ -1,0 +1,29 @@
+﻿FormatVersion: 6
+Name: "Storyboard 1"
+Script: "Storyboard"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  ce9d3d9842bb45d5986f2a7fae18e39a:
+    Name: "intro_bg"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  803ccdada9c34e37bf2d3f3780c35b47:
+    Name: "bg"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  c69a9b8532084b0da74faf4b051cf983:
+    Name: "kiai_flashes"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  f50a84b7bcd74ab7a9ab8efa01a7b079:
+    Name: "girl_foreground"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

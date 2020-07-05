@@ -1,0 +1,19 @@
+﻿FormatVersion: 6
+Name: "Tpazol 1"
+Script: "Tpazol"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  17bd117dae3f47e18211afb9a3866531:
+    Name: "credits_bg"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  f2a7e33709b84b8f8ecdee3bafcb405f:
+    Name: "2"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
